@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #111;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 0;
+}
+.navbar img {
+    height: 35px;
+}
+.navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.navbar li {
+    margin-right: 16px;
+    color: #eee;
+    cursor: pointer;
+}
+
+.navbar li:hover {
+    color: #fb3;
+}
