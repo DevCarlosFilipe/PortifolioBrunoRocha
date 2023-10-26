@@ -21,3 +21,7 @@
     color: #eee;
     cursor: pointer;
 }
+
+.navbar li:hover {
+    color: #fb3;
+}

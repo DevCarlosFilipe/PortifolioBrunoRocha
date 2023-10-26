@@ -1,5 +1,9 @@
 function Footer (){
-    return <p>Footer</p>
+    return (
+        <footer>
+            
+        </footer>
+    )
 }
 
 export default Footer
