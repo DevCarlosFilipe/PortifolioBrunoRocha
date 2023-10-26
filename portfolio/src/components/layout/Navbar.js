@@ -1,6 +1,6 @@
 import LogoBruno from "../LogoBruno";
 import styles from "./css/Navbar.module.css";
-import Container from "../Container"
+import Container from "./Container"
 
 function Navbar() {
     return (
