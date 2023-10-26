@@ -17,10 +17,12 @@
     margin-left: 25px;
     margin-top: 25px;
     font-size: 14pt;
+    position: relative;
     z-index: 2;
 }
 .header img {
     width: 400px;
+    position: relative;
     z-index: 2;
 }
 .vacuo {
@@ -29,7 +31,6 @@
 }
 
 .cloud {
-    background-color: #00000021;
     background-image: url(../../img/clouds.png);
     background-attachment: fixed;
     background-position: bottom;
@@ -43,11 +44,11 @@
 
 @keyframes rotationLeft {
     0% {
-        background-position-x: -2700px;
+        background-position-x: -1400px;
     }
     
     100% {
-        background-position-x: -150px;
+        background-position-x: -140px;
     }
 }
 
