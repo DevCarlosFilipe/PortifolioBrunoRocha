@@ -1,10 +1,12 @@
 import "./App.css";
-import LogoBruno from "./components/LogoBruno";
+import Footer from "./components/layout/Footer";
+import Navbar from "./components/layout/Navbar";
 
 function App() {
     return (
         <div className="App">
-            <LogoBruno blackLogo={false}  />
+            <Navbar />
+            <Footer />
         </div>
     );
 }
