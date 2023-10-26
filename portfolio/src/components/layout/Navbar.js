@@ -3,10 +3,11 @@ import styles from "./css/Navbar.module.css";
 import Container from "./Container"
 
 function Navbar() {
+    //<LogoBruno blackLogo={false} alt="Logo" />
     return (
         <div className={styles.navbar}>
             <Container>
-                <LogoBruno blackLogo={false} alt="Logo" />
+                <div></div>
                 <ul>
                     <li>Inicio</li>
                     <li>Sobre mim</li>

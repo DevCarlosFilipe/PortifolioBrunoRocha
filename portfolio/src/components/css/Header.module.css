@@ -1,0 +1,58 @@
+.header {
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #010204;
+    padding-top: 70px;
+    color: #eee;
+    flex-direction: row;
+    background-image: url(../../img/pianista.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    background-attachment: fixed;
+}
+.header p {
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 14pt;
+    z-index: 2;
+}
+.header img {
+    width: 400px;
+    z-index: 2;
+}
+.vacuo {
+    width: 200px;
+    height: 200px;
+}
+
+.cloud {
+    background-color: #00000021;
+    background-image: url(../../img/clouds.png);
+    background-attachment: fixed;
+    background-position: bottom;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    animation: rotationLeft 80s linear infinite;
+    z-index: 1;
+}
+
+@keyframes rotationLeft {
+    0% {
+        background-position-x: -2700px;
+    }
+    
+    100% {
+        background-position-x: -150px;
+    }
+}
+
+.img_cloud {
+    width: auto!important;
+    margin-top: 4rem;
+    opacity: 0.5;
+}
