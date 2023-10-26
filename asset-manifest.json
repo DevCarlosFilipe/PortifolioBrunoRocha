@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PortifolioBrunoRocha/static/css/main.b6462663.css",
-    "main.js": "/PortifolioBrunoRocha/static/js/main.adcb6aeb.js",
+    "main.css": "/PortifolioBrunoRocha/static/css/main.57d67983.css",
+    "main.js": "/PortifolioBrunoRocha/static/js/main.8d65c0c2.js",
     "static/media/logo.svg": "/PortifolioBrunoRocha/static/media/logo.9682ba6607ac6a4e6de067d8e17b7f92.svg",
     "static/media/logo-white.svg": "/PortifolioBrunoRocha/static/media/logo-white.bd745feaee22ec4a8bebc7c4b1ce9758.svg",
     "index.html": "/PortifolioBrunoRocha/index.html",
-    "main.b6462663.css.map": "/PortifolioBrunoRocha/static/css/main.b6462663.css.map",
-    "main.adcb6aeb.js.map": "/PortifolioBrunoRocha/static/js/main.adcb6aeb.js.map"
+    "main.57d67983.css.map": "/PortifolioBrunoRocha/static/css/main.57d67983.css.map",
+    "main.8d65c0c2.js.map": "/PortifolioBrunoRocha/static/js/main.8d65c0c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6462663.css",
-    "static/js/main.adcb6aeb.js"
+    "static/css/main.57d67983.css",
+    "static/js/main.8d65c0c2.js"
   ]
 }
