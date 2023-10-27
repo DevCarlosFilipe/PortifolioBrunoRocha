@@ -10,6 +10,11 @@
     position: fixed;
     z-index: 1050;
 }
+
+.navbar_bg {
+    background-color: #222;
+}
+
 .navbar img {
     height: 35px;
 }

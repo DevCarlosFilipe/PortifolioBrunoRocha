@@ -21,7 +21,7 @@
     z-index: 2;
 }
 .header img {
-    width: 400px;
+    height: 115px;
     position: relative;
     z-index: 2;
 }
@@ -40,6 +40,7 @@
     height: 100%;
     animation: rotationLeft 80s linear infinite;
     z-index: 1;
+    top: -19px;
 }
 
 @keyframes rotationLeft {
@@ -48,12 +49,6 @@
     }
     
     100% {
-        background-position-x: -140px;
+        background-position-x: -145px;
     }
-}
-
-.img_cloud {
-    width: auto!important;
-    margin-top: 4rem;
-    opacity: 0.5;
 }

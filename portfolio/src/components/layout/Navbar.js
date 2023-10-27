@@ -5,7 +5,7 @@ import Container from "./Container"
 function Navbar() {
     //<LogoBruno blackLogo={false} alt="Logo" />
     return (
-        <div className={styles.navbar}>
+        <div className={`${styles.navbar}`}>
             <Container>
                 <div></div>
                 <ul>
