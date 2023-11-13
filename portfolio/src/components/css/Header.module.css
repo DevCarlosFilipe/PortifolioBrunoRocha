@@ -7,11 +7,11 @@
     padding-top: 70px;
     color: #eee;
     flex-direction: row;
-    background-image: url(../../img/pianista.jpg);
+    background-image: url(../../img/pianista.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position-y: bottom;
+    background-position-x: right;
     background-size: contain;
-    background-attachment: fixed;
 }
 .header p {
     margin-left: 25px;
@@ -32,6 +32,7 @@
 
 .cloud {
     background-image: url(../../img/clouds.png);
+    background-color: #0000006e;
     background-attachment: fixed;
     background-position: bottom;
     position: absolute;
@@ -40,7 +41,7 @@
     height: 100%;
     animation: rotationLeft 80s linear infinite;
     z-index: 1;
-    top: -19px;
+    top: 0px;
 }
 
 @keyframes rotationLeft {
