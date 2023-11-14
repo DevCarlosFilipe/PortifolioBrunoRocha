@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/PortifolioBrunoRocha/static/css/main.9ff290bb.css",
-    "main.js": "/PortifolioBrunoRocha/static/js/main.7f3eeb7e.js",
+    "main.css": "/PortifolioBrunoRocha/static/css/main.1034e889.css",
+    "main.js": "/PortifolioBrunoRocha/static/js/main.b50a047d.js",
     "static/media/clouds.png": "/PortifolioBrunoRocha/static/media/clouds.e12df5e89817af6040e9.png",
+    "static/media/foto-bruno.png": "/PortifolioBrunoRocha/static/media/foto-bruno.12159dea50f19b100203.png",
     "static/media/pianista.png": "/PortifolioBrunoRocha/static/media/pianista.560af03dc1393ef45769.png",
     "static/media/logo.svg": "/PortifolioBrunoRocha/static/media/logo.9682ba6607ac6a4e6de067d8e17b7f92.svg",
     "static/media/logo-white.svg": "/PortifolioBrunoRocha/static/media/logo-white.bd745feaee22ec4a8bebc7c4b1ce9758.svg",
     "index.html": "/PortifolioBrunoRocha/index.html",
-    "main.9ff290bb.css.map": "/PortifolioBrunoRocha/static/css/main.9ff290bb.css.map",
-    "main.7f3eeb7e.js.map": "/PortifolioBrunoRocha/static/js/main.7f3eeb7e.js.map"
+    "main.1034e889.css.map": "/PortifolioBrunoRocha/static/css/main.1034e889.css.map",
+    "main.b50a047d.js.map": "/PortifolioBrunoRocha/static/js/main.b50a047d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ff290bb.css",
-    "static/js/main.7f3eeb7e.js"
+    "static/css/main.1034e889.css",
+    "static/js/main.b50a047d.js"
   ]
 }
